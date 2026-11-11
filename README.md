@@ -202,6 +202,3 @@ flutter run
 
 ---
 
-## 📄 License
-
-Add a license (e.g. MIT) or state that the project is for academic use.
